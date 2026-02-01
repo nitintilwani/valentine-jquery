@@ -6,7 +6,7 @@ A silly classic 'will-you-be-my-valentine' application that allows a user to eas
 
 
 ## Tools and Technologies
-* JavaScript - jQuery
+* JavaScript - jQuery..
 * HTML
 * CSS
 
